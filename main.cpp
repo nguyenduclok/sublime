@@ -1,16 +1,15 @@
 #include <bits/stdc++.h>
 using namespace std;
 // #define ONLINE_JUDGE
-#define F					fisrt
-#define S 					second
+#define F				fisrt
+#define S 				second
 #define endl				"\n"
-#define pb					push_back
+#define pb				push_back
 #define is  				insert
-#define si 					set<int>
-#define msi					multiset<int>
-#define vi 					vector<int>
+#define si 				set<int>
+#define msi				multiset<int>
+#define vi 				vector<int>
 #define mii 				map<int, int>
-#define endl 				"\n"
 #define sz(x) 				((int) x.size())
 #define all(p) 				p.begin(), p.end()
 #define rep(i,a,b) 			for (int i = a; i < b; i++)
@@ -20,6 +19,7 @@ using namespace std;
 void solve() {
 	
 }
+
 int main() {
 	ios_base::sync_with_stdio(0);
 	cin.tie(0);

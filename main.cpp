@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 // #define ONLINE_JUDGE
-#define F				fisrt
+#define F				first
 #define S 				second
 #define endl				"\n"
 #define pb				push_back
@@ -9,6 +9,7 @@ using namespace std;
 #define si 				set<int>
 #define msi				multiset<int>
 #define vi 				vector<int>
+#define vvi				vector<vi>
 #define mii 				map<int, int>
 #define sz(x) 				((int) x.size())
 #define all(p) 				p.begin(), p.end()
